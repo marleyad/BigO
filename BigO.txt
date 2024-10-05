@@ -40,7 +40,6 @@ Step 2
         return newArray;
     }
 
-
     O(n)
 
     function subtotals(array) {
